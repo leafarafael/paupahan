@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=LAPTOP-797UOM68\\SQLEXPRESS;Initial Catalog=paupahan;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
