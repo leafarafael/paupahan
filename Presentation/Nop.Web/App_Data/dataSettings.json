@@ -1,5 +1,5 @@
-﻿{
-  "DataConnectionString": "Data Source=LAPTOP-797UOM68\\SQLEXPRESS;Initial Catalog=paupahan;Integrated Security=True;Persist Security Info=False",
+{
   "DataProvider": "sqlserver",
+  "DataConnectionString": "Server=tcp:paupahan.database.windows.net,1433;Initial Catalog=paupahan;Persist Security Info=False;User ID=paupahan;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30",
   "RawDataSettings": {}
 }
