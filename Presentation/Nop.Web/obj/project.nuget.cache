@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gd89UUzoY613szjyF2VAUnHqK34fRLuRVRj5D83XHk33h9WXT1a/Ew8QE9ZaomnPuhR2ibEQU859a8udKAR+ZQ==",
+  "dgSpecHash": "5xkT/mZj6jqt51i9X1L2cqY0tecnBZPR9qpMZG8DlHPBytsecy61FGAb30xUiejGZmou1llypWUh4xWzO/hEPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj",
+  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web\\Nop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

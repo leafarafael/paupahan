@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vn3OZfv9UwYOz355zrNeLz8+57XS1EqlBjbOjMy8BY/HpFggx5gpB2/l9Uhdrke8dq5iZj3s4CcSaC4Wx/YVAA==",
+  "dgSpecHash": "apY3+j8B4muzrTiDyohqGmuGsDtC8/lmai51D+wkTY2/5cJnb0lewsqII0g7uuyBpj7gomJMv6rQKEXOwMPh6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.DiscountRules.CustomerRoles\\Nop.Plugin.DiscountRules.CustomerRoles.csproj",
+  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.DiscountRules.CustomerRoles\\Nop.Plugin.DiscountRules.CustomerRoles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

@@ -4234,7 +4234,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Core.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Data/4.3.0": {
         "type": "project",
@@ -4251,7 +4254,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Services/4.3.0": {
         "type": "project",
@@ -4273,7 +4279,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Services.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Nop.Web/4.3.0": {
         "type": "project",
@@ -4311,7 +4320,10 @@
         },
         "runtime": {
           "bin/placeholder/Nop.Web.Framework.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -12791,11 +12803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
       "projectName": "Nop.Plugin.Payments.PayPalSmartPaymentButtons",
-      "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
+      "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
       "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\obj\\",
+      "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12816,8 +12828,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

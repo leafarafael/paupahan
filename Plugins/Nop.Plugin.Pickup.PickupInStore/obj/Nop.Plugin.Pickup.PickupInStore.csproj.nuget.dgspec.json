@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj": {}
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "projectName": "Nop.Data",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -142,8 +142,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "projectName": "Nop.Services",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -224,11 +224,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
         "projectName": "Nop.Plugin.Pickup.PickupInStore",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -325,8 +325,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "projectName": "Nop.Web.Framework",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Presentation\\Nop.Web.Framework\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Presentation\\Nop.Web.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -389,14 +389,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj"
               },
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Data\\Nop.Data.csproj"
               },
-              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
+              "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+                "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj"
               }
             }
           }

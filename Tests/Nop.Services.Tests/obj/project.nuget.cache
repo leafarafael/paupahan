@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUQeXAsDVv9WknFjDikEc8oiU/xY5srRQw5ias+VuHqQZ4L3AILO9TaccdZshnufvsbahKl1mjjoL0XFst3UmA==",
+  "dgSpecHash": "NO55lib5+IWzzEVsz20lK4iTt3GDEr+DWFCu+a0pf2kFMtxF/yniNU++NB/Qx0a7txVrFihw9CqumuXCnfb+HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

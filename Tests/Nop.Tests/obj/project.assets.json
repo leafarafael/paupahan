@@ -13368,11 +13368,11 @@
   "project": {
     "version": "4.3.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "projectName": "Nop.Tests",
-      "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Tests\\Nop.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Tests\\Nop.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13393,11 +13393,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }

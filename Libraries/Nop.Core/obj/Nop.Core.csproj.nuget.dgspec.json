@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {}
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj": {
       "version": "4.3.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\Nop.Core.csproj",
         "packagesPath": "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Libraries\\Nop.Core\\obj\\",
+        "outputPath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Libraries\\Nop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

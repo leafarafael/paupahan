@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JNV9iBUzxBprStdRhC+aCQtJSImCF7ahkWYrdq4otbfje0enWRLJM6ghjP6G7ady/U0Tl14rnKnvkRldCzi3ZA==",
+  "dgSpecHash": "WBuiPkynu30GeMjnS3FMWsm36xF/BxQKNN8YEp9WQGm7qONZHJHvZcY6WQtz4arpLwm8Z0XS+z+GBDTB7iyEMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
+  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.ExternalAuth.Facebook\\Nop.Plugin.ExternalAuth.Facebook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",

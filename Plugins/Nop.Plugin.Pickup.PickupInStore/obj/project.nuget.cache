@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtbIvZOlejBIgCOGQKynWroAv61+VHCqgUm7PjuvwZIUZ5UY41SIEKyAEwe29lWJygq3pzagYMQQv/JtNTM40w==",
+  "dgSpecHash": "p201hLNM2YppAXYKB1hhbXAgkiBpKYv6LAxmwWnQvqcbaRmvotd/gA9FqRXIWyAwRFPaaK/Q0z9+vDwiNqTalA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\nopCommerce\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
+  "projectFilePath": "C:\\Users\\Rafael De La Cruz\\Documents\\eCommerce\\paupahan\\Plugins\\Nop.Plugin.Pickup.PickupInStore\\Nop.Plugin.Pickup.PickupInStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\Rafael De La Cruz\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
